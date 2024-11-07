@@ -9,6 +9,12 @@ Welcome to my GitHub profile! I'm Tamim Hmizi, a Cloud & DevOps Engineer passion
 - 💬 Ask me about anything DevOps, Cloud, or Web Development related
 - 📫 How to reach me: hmizitamim@hotmail.com
 
+## 🏆 Achievements
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=tamim-hmizi&margin-w=15&theme=radical" alt="GitHub trophies for Tamim Hmizi" /> </p>
+
+## 📊 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamim-hmizi&show_icons=true&theme=radical" alt="Tamim's GitHub stats" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamim-hmizi&theme=radical" alt="GitHub streak stats" /></p>
+
 ## 🛠️ Languages, Tools & Technologies
 
 ### ☁️ Cloud Platforms
@@ -49,7 +55,6 @@ Welcome to my GitHub profile! I'm Tamim Hmizi, a Cloud & DevOps Engineer passion
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-FF5733?style=for-the-badge)
 <!-- Add other OS and networking tools as needed -->
 
 ## 📊 GitHub Stats
