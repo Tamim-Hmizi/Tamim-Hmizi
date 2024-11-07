@@ -9,6 +9,11 @@ Welcome to my GitHub profile! I'm **Tamim Hmizi**, a Cloud & DevOps Engineer pas
 - 💬 Ask me about anything **DevOps, Cloud, or Web Development** related
 - 📫 How to reach me: **hmizitamim@hotmail.com**
 
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamimhmizi/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61566773492798)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tamim_hmizi/)
+
 ## 🏆 Achievements
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=tamim-hmizi&margin-w=15&theme=radical" alt="GitHub trophies for Tamim Hmizi" />
@@ -21,8 +26,6 @@ Welcome to my GitHub profile! I'm **Tamim Hmizi**, a Cloud & DevOps Engineer pas
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamim-hmizi&theme=radical" alt="GitHub streak stats" />
 </p>
-
-## 💻 Most Used Languages
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim-hmizi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
@@ -65,7 +68,4 @@ Welcome to my GitHub profile! I'm **Tamim Hmizi**, a Cloud & DevOps Engineer pas
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white)
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamimhmizi/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61566773492798)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tamim_hmizi/)
+
