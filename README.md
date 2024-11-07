@@ -57,8 +57,5 @@ Welcome to my GitHub profile! I'm Tamim Hmizi, a Cloud & DevOps Engineer passion
 ![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white)
 <!-- Add other OS and networking tools as needed -->
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tamim-hmizi&show_icons=true&theme=radical)
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamimhmizi/)
